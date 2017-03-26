@@ -1,9 +1,9 @@
 # F429_notas
-O propósito deste repositório é tornar públicas todas os notebooks de Jupyter utilizados no curso experimental de F429 (Circuitos de corrente alternada e óptica) do IFGW-Unicamp. Além disto, gostaria de facilitar  a contribuição de  alunos e professores
+O propósito deste repositório é tornar públicas todas os notebooks de Jupyter utilizados no curso experimental de F429 (Circuitos de corrente alternada e óptica) do IFGW-Unicamp. Além disto, gostaria de facilitar a contribuição de  alunos e professores a este material.
 
 ## Corrente alternada
 * Aula 1) Introdução prática à corrente alternada e instrumentos de medida		 
-* __Aula 2)__ Introdução à aquisição de dados por computador via Python		
+* <span style="color:blue">__Aula 2)__<\span> Introdução à aquisição de dados por computador via Python		
 * Aula 3) Resposta espectral de circuitos, __aula exploratória__
 * __Aula 4)__ Teoria sobre função de transferência e diagramas de Bode		
 * Aula 5) Resposta espectral de circuitos, __experimento__
