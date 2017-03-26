@@ -7,7 +7,7 @@ O propósito deste repositório é tornar públicas todas os notebooks de Jupyte
 * Aula 3) Resposta espectral de circuitos, __aula exploratória__
 * __Aula 4)__ Teoria sobre função de transferência e diagramas de Bode		
 * __Aula 5)__ Resposta espectral de circuitos, __experimento__
-* Aula 6) Resposta transiente, integração e diferenciação, __aula exploratória	__
+* Aula 6) Resposta transiente, integração e diferenciação, __aula exploratória__
 * Aula 7) Teoria sobre resposta transiente	
 * __Aula 8)__ Resposta transiente, integração e diferenciação, __experimento__
 * Aula 9) Experimento desafio, __experimento__
