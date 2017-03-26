@@ -3,13 +3,13 @@ O propósito deste repositório é tornar públicas todas os notebooks de Jupyte
 
 ## Corrente alternada
 * Aula 1) Introdução prática à corrente alternada e instrumentos de medida		 
-* <span style="color:blue">__Aula 2)__</span> Introdução à aquisição de dados por computador via Python		
+* __Aula 2)__ Introdução à aquisição de dados por computador via Python		
 * Aula 3) Resposta espectral de circuitos, __aula exploratória__
 * __Aula 4)__ Teoria sobre função de transferência e diagramas de Bode		
-* Aula 5) Resposta espectral de circuitos, __experimento__
+* __Aula 5)__ Resposta espectral de circuitos, __experimento__
 * Aula 6) Resposta transiente, integração e diferenciação, __aula exploratória	__
 * Aula 7) Teoria sobre resposta transiente	
-* Aula 8) Resposta transiente, integração e diferenciação, __experimento__
+* __Aula 8)__ Resposta transiente, integração e diferenciação, __experimento__
 * Aula 9) Experimento desafio, __experimento__
 * Aula 10) Prova 1
 
